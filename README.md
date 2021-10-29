@@ -6,7 +6,7 @@ I'm Vincent Do, a college student attending UC Berkeley, and I'm from San Jose, 
 
 ### 💻 Technologies:
 
-Python, Java, Bash, Scheme, AWS, Scratch, HTML, CSS, Github, Linux
+Python, Java, Bash, Scheme, AWS, Scratch, HTML, CSS, Github, Linux, SQL
 <!--
 **khance12/khance12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
