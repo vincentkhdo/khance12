@@ -1,4 +1,4 @@
-### Hello, folks! 👋
+### Hi there! 👋
 
 I'm Vincent Do, a college student attending UC Berkeley, and I'm from San Jose, California. 
 
